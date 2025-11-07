@@ -2,11 +2,11 @@
 
 Here, you'll find a documentation and clear instructions for integrating your applications with Apixmed genetic interpretation module.
 
-For whom
+### For whom
 This guide is intended for individuals responsible for managing interactions between their system and the Apixmed system. 
 It also serves as an official document describing the provided services from a legal perspective.
 
-How It Works
+### How It Works
 
 Merchant interacts with the application through shared data storage (for now SFTP will be used). 
 The application monitors shared data storage and when the new data (patient information and genetic data) appears, it uploads that data to the internal server.
